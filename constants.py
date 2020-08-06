@@ -25,11 +25,9 @@ SOFTWARE.
 
 # Mirrors may change over time.
 MIRRORS = [
-    'libgen.io',
+    "libgen.is",
     "gen.lib.rus.ec",
     "93.174.95.27",
-    "libgen.in",
-    "libgen.org"
 ]
 
 DEFAULT_MIRROR = MIRRORS[0]
